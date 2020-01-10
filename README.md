@@ -1,3 +1,5 @@
+Credited to: Faviansyah Arianda Pallas (https://github.com/favians)
+
 # Vue
 
 > For First Init Vue Learner
