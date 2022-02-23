@@ -36,6 +36,10 @@ $ yarn generate
 13. Feature Unittest
 14. Feature Axios
 
+# Useful command
 
+Fix problem using linter :
+
+    npm run lint -- --fix
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
